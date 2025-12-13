@@ -12,9 +12,9 @@
                 {/each}
             </div>
         </div>
-        <h3 class="text-xl font-bold text-white mb-3">Scale every channel</h3>
+        <h3 class="text-xl font-bold text-white mb-3">Instant RFP responses</h3>
         <p class="text-gray-400 text-sm leading-relaxed">
-          Connect and scale Slack, Microsoft Teams, Discord, portal, email, chat, forms and more with the fastest support inbox ever built.
+          Generate accurate, on-brand RFP responses in seconds instead of weeks. Iris AI pulls from your verified knowledge base to answer every question with precision.
         </p>
       </div>
 
@@ -36,9 +36,9 @@
                 Negative shift
             </div>
         </div>
-        <h3 class="text-xl font-bold text-white mb-3">Understand every customer</h3>
+        <h3 class="text-xl font-bold text-white mb-3">60% time savings</h3>
         <p class="text-gray-400 text-sm leading-relaxed">
-          Drive product and revenue. Automatically surface product themes, customer trends, and churn signals.
+          Your sales team reclaims weeks of manual work. Focus on strategy and relationships while Iris handles the heavy lifting of RFP drafting.
         </p>
       </div>
 
@@ -54,9 +54,9 @@
                  <div class="px-3 py-1 bg-green-600/20 text-green-400 border border-green-600/30 text-xs rounded font-medium">Draft reply</div>
              </div>
         </div>
-        <h3 class="text-xl font-bold text-white mb-3">Empower every team member</h3>
+        <h3 class="text-xl font-bold text-white mb-3">SOC 2 compliant & accurate</h3>
         <p class="text-gray-400 text-sm leading-relaxed">
-          Supercharge your team with AI built for B2B. Triage queries, engage customers, and investigate technical queries with accuracy.
+          Enterprise-grade security meets hallucination-free AI. Iris is trained on your verified knowledge, ensuring responses you can trust and compliance you need.
         </p>
       </div>
 
