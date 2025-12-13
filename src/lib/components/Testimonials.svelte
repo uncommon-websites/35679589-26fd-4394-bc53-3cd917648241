@@ -1,7 +1,7 @@
 <section class="py-24 bg-white">
   <div class="container-custom">
     <div class="text-center mb-16">
-        <p class="text-[10px] font-bold tracking-[0.2em] text-gray-400 uppercase mb-4">Fast growing companies love Plain</p>
+        <p class="text-[10px] font-bold tracking-[0.2em] text-gray-400 uppercase mb-4">Fast growing companies love Iris AI</p>
         <h2 class="text-4xl md:text-5xl font-bold text-gray-900 tracking-tight">Take their word for it</h2>
     </div>
 
@@ -12,7 +12,7 @@
                 <div class="text-2xl font-serif font-bold mb-12">granola|</div>
                 <div class="text-4xl text-white/20 absolute top-10 left-10 font-serif">“</div>
                 <p class="text-xl md:text-2xl font-medium leading-relaxed mb-10 relative z-10">
-                    We chose Plain because it was the right fit for our fast-moving team to get going quickly. It's helped us stay organized & responsive as we 100x-ed our users, and we're confident it will keep supporting us as we continue to grow.
+                    We chose Iris AI because it was the right fit for our fast-moving sales team to respond to RFPs quickly. It's helped us stay organized and win more deals as we scaled, and we're confident it will keep supporting us as we continue to grow.
                 </p>
                 <div class="flex items-center gap-4">
                     <div class="w-12 h-12 rounded bg-gray-700 overflow-hidden">
@@ -39,7 +39,7 @@
         <div class="bg-[#F7F5F2] rounded-2xl p-10">
             <div class="text-green-500 text-4xl font-serif mb-6">“</div>
             <p class="text-lg text-gray-900 font-medium leading-relaxed mb-8">
-                With Plain powering our support, we don't have to think about scaling challenges. Everything just works.
+                With Iris AI powering our RFP responses, we don't have to think about scaling challenges. Everything just works.
             </p>
             <div class="flex items-center gap-4 mt-auto">
                 <div class="w-10 h-10 rounded bg-gray-300 overflow-hidden">
@@ -56,7 +56,7 @@
         <div class="bg-[#F7F5F2] rounded-2xl p-10">
             <div class="text-green-500 text-4xl font-serif mb-6">“</div>
             <p class="text-lg text-gray-900 font-medium leading-relaxed mb-8">
-                We see Plain as a tool very similar to Raycast. Focused on a great user experience, intelligent workflows, and truly empowering the teams that use it.
+                We see Iris AI as a tool that transforms how we work. Focused on a great user experience, intelligent workflows, and truly empowering the sales teams that use it.
             </p>
             <div class="flex items-center gap-4 mt-auto">
                 <div class="w-10 h-10 rounded bg-gray-300 overflow-hidden">

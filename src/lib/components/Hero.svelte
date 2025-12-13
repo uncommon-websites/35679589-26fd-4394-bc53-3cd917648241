@@ -13,7 +13,7 @@
 
     <!-- Headline -->
     <h1 class="text-5xl md:text-7xl font-bold tracking-tight text-gray-900 mb-6 max-w-4xl mx-auto leading-[1.1]">
-      Win more RFPs with <br class="hidden md:block" /> <span class="text-plain-green">AI-powered</span> responses
+      Win more RFPs with <br class="hidden md:block" /> <span class="text-iris-primary">AI-powered</span> responses
     </h1>
 
     <!-- Subheadline -->
@@ -23,7 +23,7 @@
 
     <!-- Buttons -->
     <div class="flex flex-col sm:flex-row items-center gap-4 mb-20">
-      <a href="#" class="px-6 py-3 text-sm font-bold bg-plain-green text-white rounded hover:opacity-90 transition-opacity uppercase tracking-wide shadow-sm shadow-primary-200">
+      <a href="#" class="px-6 py-3 text-sm font-bold bg-iris-primary text-white rounded hover:opacity-90 transition-opacity uppercase tracking-wide shadow-sm shadow-primary-200">
         Book a Demo
       </a>
       <a href="#" class="px-6 py-3 text-sm font-bold border border-gray-200 text-gray-700 rounded hover:border-gray-400 transition-colors uppercase tracking-wide bg-white">
@@ -94,7 +94,7 @@
                 <div class="bg-[#1C1C1C] rounded-lg p-4 text-gray-300 shadow-xl border border-gray-800 max-w-2xl mx-auto mt-8">
                     <div class="flex items-center justify-between mb-4 border-b border-gray-700 pb-3">
                         <div class="flex items-center gap-2 text-xs font-medium text-gray-400">
-                            <div class="w-4 h-4 rounded-full bg-plain-green flex items-center justify-center text-black font-bold text-[10px]">I</div>
+                            <div class="w-4 h-4 rounded-full bg-iris-primary flex items-center justify-center text-black font-bold text-[10px]">I</div>
                             Iris AI Assistant
                         </div>
                         <div class="text-[10px] text-primary-400 flex items-center gap-1">

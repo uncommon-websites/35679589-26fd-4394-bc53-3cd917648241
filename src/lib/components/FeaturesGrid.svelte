@@ -1,9 +1,9 @@
-<section class="py-12 bg-plain-dark">
+<section class="py-12 bg-iris-dark">
   <div class="container-custom">
     <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
       
       <!-- Card 1 -->
-      <div class="bg-plain-dark-secondary rounded-2xl p-8 border border-gray-800 hover:border-gray-700 transition-colors group">
+      <div class="bg-iris-dark-secondary rounded-2xl p-8 border border-gray-800 hover:border-gray-700 transition-colors group">
         <div class="h-40 mb-8 flex items-center justify-center relative">
             <!-- Icons Grid -->
             <div class="grid grid-cols-4 gap-3 opacity-60 group-hover:opacity-100 transition-opacity">
@@ -19,7 +19,7 @@
       </div>
 
       <!-- Card 2 -->
-      <div class="bg-plain-dark-secondary rounded-2xl p-8 border border-gray-800 hover:border-gray-700 transition-colors group">
+      <div class="bg-iris-dark-secondary rounded-2xl p-8 border border-gray-800 hover:border-gray-700 transition-colors group">
         <div class="h-40 mb-8 flex items-end justify-center gap-1 pb-4">
             <!-- Bar Chart -->
             <div class="w-3 bg-green-900/40 h-12 rounded-t"></div>
@@ -43,7 +43,7 @@
       </div>
 
       <!-- Card 3 -->
-      <div class="bg-plain-dark-secondary rounded-2xl p-8 border border-gray-800 hover:border-gray-700 transition-colors group">
+      <div class="bg-iris-dark-secondary rounded-2xl p-8 border border-gray-800 hover:border-gray-700 transition-colors group">
         <div class="h-40 mb-8 flex flex-col items-center justify-center gap-3">
              <div class="flex gap-2">
                  <div class="px-3 py-1 bg-green-600 text-white text-xs rounded font-medium">Summarize thread</div>

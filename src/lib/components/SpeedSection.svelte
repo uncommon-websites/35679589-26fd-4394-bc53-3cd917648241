@@ -29,7 +29,7 @@
         </div>
         <div class="border-t border-gray-800 pt-8">
             <p class="text-gray-300 leading-relaxed">
-                Plain is designed for work, not to feel like work. Every aspect of the Plain interface has been forged, stress-tested and iterated on by and with some of the fastest-growing, and most demanding support teams in the world. They love it, and we think you will too.
+                Iris AI is designed for speed, not complexity. Every aspect of the Iris interface has been forged, stress-tested and iterated on by and with some of the fastest-growing, and most demanding sales teams in the world. They love it, and we think you will too.
             </p>
         </div>
 
@@ -40,7 +40,7 @@
         </div>
         <div class="border-t border-gray-800 pt-8">
             <p class="text-gray-300 leading-relaxed">
-                We give you flexible building blocks, not rigid opinions. Plain is API-first, so everything you see in the product can be done programmatically. Extend workflows, automate the edge cases, or replace entire pieces with your own logic. If you can imagine it, you can ship it.
+                We give you flexible building blocks, not rigid opinions. Iris AI is API-first, so everything you see in the product can be done programmatically. Extend workflows, automate the edge cases, or replace entire pieces with your own logic. If you can imagine it, you can ship it.
             </p>
         </div>
 
@@ -57,7 +57,7 @@
 
     <div class="text-center mt-20">
         <p class="text-2xl md:text-3xl font-bold text-white mb-2">Start fast. Scale fearlessly.</p>
-        <p class="text-gray-400">Plain isn't just faster, it's built to last.</p>
+        <p class="text-gray-400">Iris AI isn't just faster, it's built to last.</p>
     </div>
   </div>
 </section>

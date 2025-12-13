@@ -1,4 +1,4 @@
-<section class="relative py-24 md:py-32 bg-plain-dark overflow-hidden">
+<section class="relative py-24 md:py-32 bg-iris-dark overflow-hidden">
   <!-- Background Effects -->
   <div class="absolute top-0 left-1/2 -translate-x-1/2 w-full h-full max-w-7xl opacity-30 pointer-events-none">
     <div class="absolute top-1/4 left-1/4 w-96 h-96 bg-green-500 rounded-full blur-[128px]"></div>

@@ -72,8 +72,8 @@
     </div>
 
     <div class="border-t border-gray-100 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
-        <p class="text-xs text-gray-400">© 2025 Plain</p>
-        <p class="text-xs text-gray-400">Not Just Tickets Ltd</p>
+        <p class="text-xs text-gray-400">© 2025 Iris AI</p>
+        <p class="text-xs text-gray-400">Iris AI Inc</p>
     </div>
   </div>
 </footer>

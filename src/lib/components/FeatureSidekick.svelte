@@ -6,7 +6,7 @@
          <div class="w-full max-w-md bg-[#1C1C1C] rounded-lg shadow-2xl border border-gray-800 p-6 text-gray-300">
              <div class="flex items-center justify-between mb-6">
                  <div class="flex items-center gap-2">
-                     <div class="w-5 h-5 rounded-full bg-plain-green flex items-center justify-center text-black font-bold text-xs">A</div>
+                     <div class="w-5 h-5 rounded-full bg-iris-primary flex items-center justify-center text-black font-bold text-xs">A</div>
                      <span class="font-medium text-sm">Ask Sidekick</span>
                  </div>
                  <div class="text-[10px] text-gray-500 border border-gray-700 px-1.5 py-0.5 rounded">ESC</div>
@@ -29,7 +29,7 @@
         </div>
         <h2 class="text-4xl md:text-5xl font-bold text-gray-900 mb-6 tracking-tight">Save time</h2>
         <p class="text-lg text-gray-500 mb-8 leading-relaxed">
-          Sidekick helps you do customer work. It's fully aware of customer context, product knowledge and historical interactions. Draft replies and find answers without ever leaving Plain.
+          Iris AI helps you complete RFPs faster. It's fully aware of your company knowledge, past proposals, and verified information. Draft responses and find answers without switching tools.
         </p>
         <a href="#" class="inline-flex items-center text-sm font-bold text-green-500 uppercase tracking-wide hover:text-green-600">
           Discover Sidekick <span class="ml-2">→</span>
