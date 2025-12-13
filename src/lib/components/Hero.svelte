@@ -120,7 +120,7 @@
             <!-- Reply Box -->
             <div class="h-16 border-t border-gray-100 px-6 flex items-center gap-4">
                  <div class="flex-1 h-10 bg-gray-50 rounded border border-gray-200"></div>
-                 <div class="w-20 h-10 bg-plain-green rounded opacity-20"></div>
+                 <div class="w-20 h-10 bg-iris-primary rounded opacity-20"></div>
             </div>
         </div>
 

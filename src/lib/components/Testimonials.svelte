@@ -63,8 +63,8 @@
                     <img src="https://ui-avatars.com/api/?name=Daniel+Sequeira&background=random" alt="Daniel" />
                 </div>
                 <div>
-                    <p class="font-bold text-sm text-gray-900">Daniel Sequeira</p>
-                    <p class="text-[10px] font-bold tracking-widest text-gray-400 uppercase">Head of Business Ops, Raycast</p>
+                    <p class="font-bold text-sm text-gray-900">Jessica Rodriguez</p>
+                    <p class="text-[10px] font-bold tracking-widest text-gray-400 uppercase">Head of Enterprise Sales</p>
                 </div>
             </div>
         </div>

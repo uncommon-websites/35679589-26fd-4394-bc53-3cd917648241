@@ -36,7 +36,7 @@
       <a href="#" class="px-3 py-1.5 text-xs font-semibold border border-gray-200 rounded text-gray-700 hover:border-gray-400 transition-colors uppercase tracking-wide">
         Sign In
       </a>
-      <a href="#" class="px-3 py-1.5 text-xs font-semibold bg-plain-green text-white rounded hover:bg-green-400 transition-colors uppercase tracking-wide">
+      <a href="#" class="px-3 py-1.5 text-xs font-semibold bg-iris-primary text-white rounded hover:bg-green-400 transition-colors uppercase tracking-wide">
         Book a Demo
       </a>
     </div>

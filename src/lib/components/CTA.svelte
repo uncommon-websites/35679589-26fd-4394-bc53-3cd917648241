@@ -12,7 +12,7 @@
     </h2>
 
     <div class="flex flex-col sm:flex-row items-center justify-center gap-4">
-      <a href="#" class="px-6 py-3 text-sm font-bold bg-plain-green text-white rounded hover:bg-green-400 transition-colors uppercase tracking-wide shadow-sm shadow-green-200">
+      <a href="#" class="px-6 py-3 text-sm font-bold bg-iris-primary text-white rounded hover:bg-green-400 transition-colors uppercase tracking-wide shadow-sm shadow-green-200">
         Book a Demo
       </a>
       <a href="#" class="px-6 py-3 text-sm font-bold border border-gray-300 text-gray-700 rounded hover:border-gray-400 transition-colors uppercase tracking-wide bg-white">
